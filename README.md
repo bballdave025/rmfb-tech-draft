@@ -1,7 +1,7 @@
 # rmfb-tech-draft
 A draft for the paper/project of finding reused manuscript and printed codex fragments in the bindings of other codices.  Basically, used books fixing and protecting other books.
 
-A main thing here will be linking to the smaller sub-projects, bringing in the best-working parts, and putting together the different models that will be trained on the dataset. Also, a link to the repo for the draft paper to be submitted to the journal, Fragmentology.
+A main thing here will be linking to the smaller sub-projects, bringing in the best working parts, and putting together the different models that will be trained on the dataset and applied to find/create a larger database/dataset. Also, a link to the repo for the [draft paper](https://github.com/bballdave025/rmfb-fragm-journal-draft) to be submitted to the journal, [Fragmentology](https://www.fragmentology.ms/).
 
 ### Finding and Extracting Document Images, Making them Ingestible
 
